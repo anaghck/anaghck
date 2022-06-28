@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @anaghck
 - 👀 I’m interested in Web development
-- 🌱 I’m currently learning Fuil stack web development
+- 🌱 I’m currently learning Full stack web development
 - 💞️ I’m looking to collaborate on Other Developers
 - 📫 How to reach me : anaghchikku@gmail.com
 -  ✨ Fun fact i love playing Games
