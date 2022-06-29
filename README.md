@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @anaghP
+- 👋 Hi, I’m @Anagh.P
 - 👀 I’m interested in Web development
 - 🌱 I’m currently learning Full stack web development
 - 💞️ I’m looking to collaborate on Other Developers
