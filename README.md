@@ -1,6 +1,6 @@
 Aspiring Data Analyst | Lifelong Learner  
 I’m passionate about data analysis and constantly learning new tools and techniques. Proficient in Python, SQL, and data visualization. Exploring machine learning and advanced analytics to enhance my skill set.  
-🔧 Skills: Python (Pandas, NumPy), SQL, Tableau, Excel  
+🔧 Skills: Python (Pandas, NumPy), SQL, Power BI, Tableau, Excel 
 📫 How to reach me : anaghchikku@gmail.com
 
 <!---
