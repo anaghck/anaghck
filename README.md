@@ -1,9 +1,7 @@
-- 👋 Hi, I’m @Anagh.P
-- 👀 I’m interested in Web development
-- 🌱 I’m currently learning Full stack web development
-- 💞️ I’m looking to collaborate on Other Developers
-- 📫 How to reach me : anaghchikku@gmail.com
--  ✨ Fun fact i love playing Games
+Aspiring Data Analyst | Lifelong Learner  
+I’m passionate about data analysis and constantly learning new tools and techniques. Proficient in Python, SQL, and data visualization. Exploring machine learning and advanced analytics to enhance my skill set.  
+🔧 Skills: Python (Pandas, NumPy), SQL, Tableau, Excel  
+📫 How to reach me : anaghchikku@gmail.com
 
 <!---
 anaghck/anaghck is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
